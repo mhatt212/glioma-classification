@@ -16,6 +16,10 @@ The purpose of this project is to compare supervised models (Random Forest, Logi
 - Data Loading and Cleaning
 - Exploratory Data Analysis (EDA)
 - Train-test split
-- Training models on performance
-- Evaluating (ROC, AUC, Accuracy)
+- Model Training
+    - Logistic Regression
+    - Decision Tree
+    - Random Forest
+- Model Evaluation (ROC, AUC, Accuracy)
+- Feature Importance
 

@@ -6,7 +6,7 @@ The purpose of this project is to compare supervised models (Random Forest, Logi
 - Glioma Classification in Brain Tumors.ipynb -> Notebook
 
 ## Data Source
-- The Cancer Genome Atlas (TCGA) Project that can be found on the The UC Irvine Machine Learning Repository (1)
+- The Cancer Genome Atlas (TCGA) Project, from the UC Irvine Machine Learning Repository
 - The dataset contains 839 patient records, and 23 variables on their clinical mutation information.
 (1)Tasci, E., Camphausen, K., Krauze, A., & Zhuge, Y. (2022). Glioma Grading Clinical and Mutation Features [Dataset]. UCI Machine Learning Repository. https://doi.org/10.24432/C5R62J.
 
